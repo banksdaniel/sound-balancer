@@ -1,0 +1,8 @@
+{
+    "uuid": "soundbalancer@dangrunger@gmail.com",
+    "name": "SoundBalancer",
+    "description": "A GNOME Shell extension for controlling audio levels.",
+    "version": 1,
+    "shell-version": ["44", "45"],
+    "url": "https://github.com/banksdaniel/sound-balancer"
+}
